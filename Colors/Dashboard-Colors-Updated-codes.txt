@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #f0e0e0 - rgb(240, 224, 224) - hsl(0, 35%, 91%)
+    Background: #000000 - rgb(0, 0, 0) - hsl(0, 0%, 0%)
+    Primary: #bfb1b0 - rgb(191, 177, 176) - hsl(4, 10%, 72%)
+    Secondary: #525c3e - rgb(82, 92, 62) - hsl(80, 19%, 30%)
+    Accent: #f3bc1e - rgb(243, 188, 30) - hsl(45, 90%, 54%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/dashboard?colors=f0e0e0-000000-bfb1b0-525c3e-f3bc1e&fonts=Francois%20One-Gabriela
+
+Thanks for using RealtimeColors.com!
